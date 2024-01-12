@@ -1,10 +1,11 @@
-# Hepatitis Prediction using Machine Learning
+# NUMBER OF BIKE USERS IN A CITY Prediction using Machine Learning
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). Key highlights:
 
-Studied and Analyzed the Heart Attack Prediction dataset to applying ML models and present my insights.
-Performed various Exploratory Data Analysis to understand the data and compare the variables.
-Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
-Compared the results to recommend the best Machine Learning model.
-COLAB NOTEBOOK LINK: https://github.com/MKPadmavathi/HeartAttack-Prediction-using-Machine-Learning/blob/main/HDS_G7_HEART_ATTACK_PREDICTION%20(1).ipynb
+- Studied and Analyzed the Heart Attack Prediction dataset to applying ML models and present my insights.
+- Performed various Exploratory Data Analysis to understand the data and compare the variables.
+- Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
+- Compared the results to recommend the best Machine Learning model.
+  
+COLAB NOTEBOOK LINK: https://github.com/KSaiNihal/Regression.UNP
 
-PROJECT PRESENTATION LINK:https://docs.google.com/presentation/d/14nL3qZblCmlH_1ddpf110lvwr-bnCkCChNIHMxs_YWo/edit?usp=sharing
+PROJECT PRESENTATION LINK:https://docs.google.com/presentation/d/1-Vu0KAwrrN4qpU64yA3DHxs95EhzJGbQUAg44441R_Y/edit?usp=sharing
