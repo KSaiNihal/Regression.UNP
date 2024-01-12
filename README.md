@@ -6,6 +6,6 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 - Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
 - Compared the results to recommend the best Machine Learning model.
   
-COLAB NOTEBOOK LINK: https://github.com/KSaiNihal/Regression.UNP
+COLAB NOTEBOOK LINK: https://colab.research.google.com/drive/1UJVzaNi5OdcOCm9xIJUAPzoWgrXI5szQ
 
 PROJECT PRESENTATION LINK:https://docs.google.com/presentation/d/1-Vu0KAwrrN4qpU64yA3DHxs95EhzJGbQUAg44441R_Y/edit?usp=sharing
